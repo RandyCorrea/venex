@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Venex.Live</title>
+    <link href="https://randycorrea.github.io/venex/feed.xml" rel="self" />
+    <link href="https://randycorrea.github.io/venex" />
+    <updated>2021-06-21T22:13:41-05:00</updated>
+    <author>
+        <name>Randy Correa</name>
+    </author>
+    <id>https://randycorrea.github.io/venex</id>
+
+    <entry>
+        <title>Vaya pero que veo</title>
+        <author>
+            <name>Randy Correa</name>
+        </author>
+        <link href="https://randycorrea.github.io/venex/vaya-pero-que-veo.html"/>
+        <id>https://randycorrea.github.io/venex/vaya-pero-que-veo.html</id>
+
+        <updated>2021-06-21T22:13:41-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

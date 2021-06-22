@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Venex.Live",
+    "description": "",
+    "home_page_url": "https://randycorrea.github.io/venex",
+    "feed_url": "https://randycorrea.github.io/venex/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Randy Correa"
+    },
+    "items": [
+        {
+            "id": "https://randycorrea.github.io/venex/vaya-pero-que-veo.html",
+            "url": "https://randycorrea.github.io/venex/vaya-pero-que-veo.html",
+            "title": "Vaya pero que veo",
+            "author": {
+                "name": "Randy Correa"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-21T22:13:41-05:00",
+            "date_modified": "2021-06-21T22:13:41-05:00"
+        }
+    ]
+}

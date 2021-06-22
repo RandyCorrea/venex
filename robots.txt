@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://randycorrea.github.io/venex/sitemap.xml
