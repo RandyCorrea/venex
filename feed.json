@@ -13,14 +13,14 @@
             "id": "https://randycorrea.github.io/venex/vaya-pero-que-veo/",
             "url": "https://randycorrea.github.io/venex/vaya-pero-que-veo/",
             "title": "Vaya pero que veo",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620\" height=\"348\" src=\"https://venex.live/?EVPInstanceName=fwdevpPlayer0\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620\" height=\"348\" src=\"https://venex.live/?EVPInstanceName=fwdevpPlayer0\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620\" height=\"348\" src=\"https://venex.live/?EVPInstanceName=fwdevpPlayer0\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "Randy Correa"
             },
             "tags": [
             ],
             "date_published": "2021-06-21T22:13:41-05:00",
-            "date_modified": "2021-07-02T19:16:48-05:00"
+            "date_modified": "2021-07-02T19:17:27-05:00"
         }
     ]
 }
