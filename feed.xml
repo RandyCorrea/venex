@@ -3,7 +3,7 @@
     <title>RandyBCZ</title>
     <link href="https://randycorrea.github.io/venex/feed.xml" rel="self" />
     <link href="https://randycorrea.github.io/venex" />
-    <updated>2021-07-02T19:14:46-05:00</updated>
+    <updated>2021-07-02T19:16:48-05:00</updated>
     <author>
         <name>Randy Correa</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://randycorrea.github.io/venex/vaya-pero-que-veo/"/>
         <id>https://randycorrea.github.io/venex/vaya-pero-que-veo/</id>
 
-        <updated>2021-07-02T19:14:46-05:00</updated>
+        <updated>2021-07-02T19:16:48-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="620" height="348" src="https://venex.live/?EVPInstanceName=fwdevpPlayer0" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" width="620" height="348" src="https://venex.live/?EVPInstanceName=fwdevpPlayer0" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div><div class="post__iframe"><iframe loading="lazy" width="620" height="348" src="https://venex.live/?EVPInstanceName=fwdevpPlayer0" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
